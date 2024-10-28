@@ -1,6 +1,7 @@
 # MicrosoftRewardsBot
 A python application which farms Microsoft rewards points. With the points, you cash in with Amazon Giftcards, and buy random shit off of amazon.
 
+
    _____  .__                                 _____  __    __________                                .___ __________        __   
   /     \ |__| ___________  ____  ___________/ ____\/  |_  \______   \ ______  _  _______ _______  __| _/ \______   \ _____/  |_ 
  /  \ /  \|  |/ ___\_  __ \/  _ \/  ___/  _ \   __\\   __\  |       _// __ \ \/ \/ /\__  \\_  __ \/ __ |   |    |  _//  _ \   __\
@@ -9,7 +10,10 @@ A python application which farms Microsoft rewards points. With the points, you 
         \/        \/                 \/                            \/     \/             \/           \/          \/             
                                                                                                                                  
                                                                                                                                  
-                                                                                                                                                                                         
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
                     .___       ___.                                                                                              
   _____ _____     __| _/____   \_ |__ ___.__.   ____   _____   ____   _________  _____                                           
  /     \\__  \   / __ |/ __ \   | __ <   |  |  /  _ \ /     \_/ __ \ / ___\__  \ \__  \                                          
